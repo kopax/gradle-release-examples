@@ -991,8 +991,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/subproject2/gradle.properties" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
       </list>
     </option>
   </component>
@@ -1620,12 +1620,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492084774241</updated>
-      <workItem from="1492084779551" duration="1969000" />
+      <workItem from="1492084779551" duration="2040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1969000" />
+    <option name="totallyTimeSpent" value="2040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3279" y="282" width="1368" height="769" extended-state="6" />
