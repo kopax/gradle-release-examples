@@ -17,6 +17,12 @@ allprojects {
 
 release {
     tagTemplate = '$name-$version'
+    failOnCommitNeeded = false
+    failOnPublishNeeded = false
+    failOnSnapshotDependencies = false
+    failOnUnversionedFiles = false
+    failOnUpdateNeeded = false
+    revertOnFail = false
 }
 
 task(startmessage) << {
