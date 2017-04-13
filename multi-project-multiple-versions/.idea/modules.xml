@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions_main.iml" group="multi-project-multiple-versions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-multiple-versions_test.iml" group="multi-project-multiple-versions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1.iml" group="subproject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1_main.iml" group="subproject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1_test.iml" group="subproject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject2/subproject2.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject2/subproject2.iml" group="subproject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject2/subproject2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject2/subproject2_main.iml" group="subproject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject2/subproject2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject2/subproject2_test.iml" group="subproject2" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-single-version.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-single-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-single-version_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-single-version_main.iml" group="multi-project-single-version" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-project-single-version_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-project-single-version_test.iml" group="multi-project-single-version" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1.iml" group="subproject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1_main.iml" group="subproject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subproject1/subproject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subproject1/subproject1_test.iml" group="subproject1" />
+    </modules>
+  </component>
+</project>
