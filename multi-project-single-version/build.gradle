@@ -22,7 +22,7 @@ release {
     failOnSnapshotDependencies = false
     failOnUnversionedFiles = false
     failOnUpdateNeeded = false
-    revertOnFail = false
+    revertOnFail = true
 }
 
 task(startmessage) << {
